@@ -7,7 +7,7 @@
 
 A deterministic, multi-language market scanner architecture indexing 5,000+ US equities in real-time, executing 24 mathematically defined investment strategies across 16 languages.
 
-This repository serves as the public documentation protocol and strategic blueprint for [DocuRefinery.com](https://docurefinery.com). 
+This repository serves as the public documentation protocol and strategic blueprint for [DocuRefinery.com]. 
 
 We engineered DocuRefinery to democratize the heavy-lifting quantitative frameworks historically reserved for institutional trading desks. Our approach strips away speculative forecasting and replaces it with cold, hard algorithmic screening—allowing any investor to identify volume anomalies, value discrepancies, and momentum shifts instantly.
 
@@ -32,7 +32,7 @@ Here is how the engine deploys constraints:
 
 The friction from raw market data to actionable conviction has been reduced to three immediate actions:
 
-1. **Visit [DocuRefinery.com](https://docurefinery.com)**.
+1. **Visit [DocuRefinery.com]**.
 2. **Deploy a Strategy** via a single click on the dashboard (e.g., *Peak Hunter*, *Blood Bath*, *Dividend Fortress*). The platform forces internal screening parameters instantly.
 3. **Execute AI Diligence:** Click on any successfully filtered asset to launch a multi-model (Claude, Gemini, Qwen) deterministic evaluation of intrinsic value.
 
@@ -40,4 +40,4 @@ The friction from raw market data to actionable conviction has been reduced to t
 
 This repository maps the operational logic, user guidelines, risk warnings, and exact deterministic rulesets for all 24 strategies across 16 languages. Exposing this framework ensures absolute transparency regarding how the DocuRefinery platform quantifies market opportunities.
 
-Access the live terminal, execute these strategies, and deploy the algorithms at [DocuRefinery.com](https://docurefinery.com).
+Access the live terminal, execute these strategies, and deploy the algorithms at [DocuRefinery.com].
